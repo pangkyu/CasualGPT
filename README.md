@@ -1,0 +1,2 @@
+# CasualGPT
+For salary lupin
